@@ -1,0 +1,24 @@
+#htm-scroll{
+    scroll-behavior: smooth;
+}
+header.bg-success.text-white{
+    width:100%; 
+    position:fixed; 
+    z-index: 1;
+}
+section#home-section{
+    padding-top:7em;
+}
+.card.text-center.p-3{
+    width: 18rem;
+}
+#message-text{
+    width:98% 
+}
+#submit-button{
+    width:100%
+}
+
+#git-icon#linkedin-icon{
+    font-size:24px
+}
